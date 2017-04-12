@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "143061563143",
+    "firebase_url": "https://kaleidoscope-5f9de.firebaseio.com",
+    "project_id": "kaleidoscope-5f9de",
+    "storage_bucket": "kaleidoscope-5f9de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143061563143:android:060eb2c82fc47c1c",
+        "android_client_info": {
+          "package_name": "trainedge.kaleidoscope1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143061563143-5vbv7sccfomt3dnv6i78qkbjgu9ffvqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trainedge.kaleidoscope1",
+            "certificate_hash": "b9c947b37d1ce0bdf915906e21d7fe58cceeca0f"
+          }
+        },
+        {
+          "client_id": "143061563143-mjmbkpr2m6redsdpurrbj19q8o4aikoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsRSG52l66A5I08UmT0W5qqsA2cuIAenw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143061563143-mjmbkpr2m6redsdpurrbj19q8o4aikoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
