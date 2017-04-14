@@ -9,17 +9,6 @@
     tools:context="trainedge.kaleidoscope1.settingsActivity"
     tools:showIn="@layout/activity_settings">
 
-    <TextView
-        android:id="@+id/txtFont"
-        android:layout_width="86dp"
-        android:layout_height="33dp"
-        android:text="FONT"
-        android:textAlignment="center"
-        android:textColor="@color/cardview_light_background"
-        android:textSize="24sp"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="16dp" />
-
     <TextClock
         android:id="@+id/textClock"
         android:layout_width="wrap_content"
@@ -27,5 +16,23 @@
         android:textColor="@color/cardview_light_background"
         tools:layout_editor_absoluteX="328dp"
         tools:layout_editor_absoluteY="7dp" />
+
+    <Spinner
+        android:id="@+id/spFont"
+        android:layout_width="79dp"
+        android:layout_height="48dp"
+        android:background="@color/com_facebook_button_background_color_focused_disabled"
+        android:fadingEdge="horizontal|vertical"
+        android:foreground="@color/colorPrimary"
+        tools:layout_editor_absoluteX="295dp"
+        tools:layout_editor_absoluteY="43dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FONT"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="43dp" />
 
 </android.support.constraint.ConstraintLayout>
